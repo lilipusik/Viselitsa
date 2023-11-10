@@ -1,0 +1,10 @@
+C:\Users\Юлия\source\repos\Viselitsa\bin\Debug\Viselitsa.exe.config
+C:\Users\Юлия\source\repos\Viselitsa\bin\Debug\Viselitsa.exe
+C:\Users\Юлия\source\repos\Viselitsa\bin\Debug\Viselitsa.pdb
+C:\Users\Юлия\source\repos\Viselitsa\obj\Debug\Viselitsa.csproj.AssemblyReference.cache
+C:\Users\Юлия\source\repos\Viselitsa\obj\Debug\Viselitsa.Game.resources
+C:\Users\Юлия\source\repos\Viselitsa\obj\Debug\Viselitsa.Properties.Resources.resources
+C:\Users\Юлия\source\repos\Viselitsa\obj\Debug\Viselitsa.csproj.GenerateResource.cache
+C:\Users\Юлия\source\repos\Viselitsa\obj\Debug\Viselitsa.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\Viselitsa\obj\Debug\Viselitsa.exe
+C:\Users\Юлия\source\repos\Viselitsa\obj\Debug\Viselitsa.pdb
